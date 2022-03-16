@@ -25,3 +25,7 @@ public class Runner {
     System.out.println(result);
   }
 }
+
+//Nirad Shah Comments
+//I learned how to properly use github as I have never used it before and I learned how important it was to adapt to learn new softwares.
+//I also refreshed interfaces and lamadas since it has been a while since I used them
