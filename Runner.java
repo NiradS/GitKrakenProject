@@ -36,3 +36,7 @@ I also learned how to create interfaces and apply them into a self-made class.
 I also learned what pushing and pulling does, which would definitely help me in the long run.
 
 */
+
+//Nirad Shah Comments
+//I learned how to properly use github as I have never used it before and I learned how important it was to adapt to learn new softwares.
+//I also refreshed interfaces and lamadas since it has been a while since I used them
