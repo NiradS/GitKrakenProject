@@ -25,3 +25,14 @@ public class Runner {
     System.out.println(result);
   }
 }
+/*
+
+What Pranav learned:
+
+I learned that GitKraken and Github is essentially a mutli-user coding platform that simply allows multiple collaborators to participate on one file
+
+I also learned how to create interfaces and apply them into a self-made class.
+
+I also learned what pushing and pulling does, which would definitely help me in the long run.
+
+*/
